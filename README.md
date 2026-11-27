@@ -7,4 +7,4 @@
 - [nano-vLLM：多条生成请求是怎么一起跑的？](./nano-vllm.md)
 - [DeepInfer：有并发空位，为什么请求还是算不完？](./deepinfer.md)
 - [RLinf 学习笔记：策略更新了，为什么机器人还可能照旧行动？](./rlinf.md)
-- - [AI 推理与机器人学习笔记](./blog-index.md)
+- [AI 推理与机器人学习笔记](./blog-index.md)
